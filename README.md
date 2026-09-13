@@ -2,6 +2,11 @@
 
 ### 🚀 Machine Learning Powered Student Placement Prediction & Analytics Platform
 
+## 🌐 Live Demo
+
+🚀 **Try CampusPulse AI:**  
+https://student-placement-prediction-sigma.vercel.app/
+
 An end-to-end **Machine Learning web application** that analyzes student academic and career-related data to predict placement outcomes using **Random Forest, Python, Flask, MySQL, Pandas, NumPy, HTML, CSS and JavaScript**.
 
 ---
